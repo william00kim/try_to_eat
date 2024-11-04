@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040144933415",
+    "project_id": "try-to-eat-kr",
+    "storage_bucket": "try-to-eat-kr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040144933415:android:65b4c8e7e16229489a6402",
+        "android_client_info": {
+          "package_name": "com.example.try_to_eat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9dpJ9Q2Jxi0Mx5GzN9z9-VtUkr7BgQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
